@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046480761785",
+    "project_id": "lesson-project-ca22f",
+    "storage_bucket": "lesson-project-ca22f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046480761785:android:917a25f28492b7b8f17c68",
+        "android_client_info": {
+          "package_name": "com.example.lesson_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046480761785-bkin3hl48bmhrn8o48nfu0hei4vushgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeM67IUIWzv9YeEsZBS165j3TaV7s0pHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046480761785-bkin3hl48bmhrn8o48nfu0hei4vushgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
